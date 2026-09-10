@@ -1,0 +1,1 @@
+Questo progetto è open-source e rilasciato sotto licenza MIT.
